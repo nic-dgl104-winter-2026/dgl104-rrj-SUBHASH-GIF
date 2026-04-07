@@ -46,3 +46,21 @@ View ↔ Presenter ↔ Model
 
 MVP enforces a stricter separation than MVC, making the View easy to swap out
 without touching any logic.
+
+## Reflection
+
+What stood out most this week is that architecture matters as much as code quality.
+MV* patterns give teams a shared structure to work within, making codebases easier
+to navigate and maintain. Understanding the distinction between MVC, MVVM, and MVP
+also helps when choosing the right framework for a project, since each pattern is
+closely tied to specific tools and platforms.
+
+---
+
+## References
+
+- **Week 10 Lecture Notes** — DGL104 Week 10 Lecture Notes *(2026)*
+- **Osmani, A.** — Learning JavaScript Design Patterns:
+  [https://www.patterns.dev](https://www.patterns.dev)
+- **Refactoring.guru** — Design Patterns:
+  [https://refactoring.guru/design-patterns](https://refactoring.guru/design-patterns)
