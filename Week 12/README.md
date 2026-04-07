@@ -80,7 +80,6 @@ it replaces verbose loop logic with something that reads almost like a sentence.
 
 ## References
 
-- **Week 12 Lecture Notes** — DGL104 Week 12 Lecture Notes *(2026)*
 - **Sarkar, D.P.** — Functional Programming Lecture Slides, NIC DGL 104 Winter 2026
 - **Reselman, B.** — TheServerSide: [https://www.theserverside.com](https://www.theserverside.com)
 - **GeeksForGeeks** — Functional Programming: [https://www.geeksforgeeks.org](https://www.geeksforgeeks.org)
